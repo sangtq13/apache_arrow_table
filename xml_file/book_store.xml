@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+  <book category="cooking">
+    <title lang="en">Everyday Italian</title>
+    <author>Giada De Laurentiis</author>
+    <editions>
+      <edition>
+        <isbn>a12d27ae-c539-11ec-9d64-0242ac120002</isbn>
+        <year>2005</year>
+        <price>30.00</price>
+      </edition>
+      <edition>
+        <isbn>b8b1824e-c539-11ec-9d64-0242ac120002</isbn>
+        <year>2018</year>
+        <price>29.00</price>
+      </edition>
+    </editions>
+  </book>
+  <book category="children">
+    <title lang="en">Harry Potter</title>
+    <author>J K. Rowling</author>
+    <editions>
+      <edition>
+        <year>2005</year>
+        <price>29.99</price>
+      </edition>
+    </editions>
+  </book>
+  <book category="web">
+    <title lang="en">Learning XML</title>
+    <author>Erik T. Ray</author>
+    <editions>
+      <edition>
+        <year>2003</year>
+        <price>39.95</price>
+      </edition>
+    </editions>
+  </book>
+</bookstore>

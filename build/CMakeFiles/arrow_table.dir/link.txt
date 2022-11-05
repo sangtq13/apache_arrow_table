@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/arrow_table.dir/src/arrow_table.cpp.o CMakeFiles/arrow_table.dir/src/parse_xml/src/parse_xml.cpp.o -o arrow_table  /usr/lib/x86_64-linux-gnu/libarrow.so.1000.0.0 -lboost_system -lboost_filesystem 
