@@ -23,7 +23,7 @@ arrow::Result<std::shared_ptr<arrow::Table>> CreateTable(XMLParse::BookStore& bo
   edition_fields.push_back(field_year);
   field_price = arrow::field("price", arrow::float32());
   edition_fields.push_back(field_price);
-  std::shared_ptr<arrow::DataType> struct_edition = struct_(edition_fields);
+  std::shared_ptr<arrow::DataType> struct_edition = arrow::struct_(edition_fields);
   std::shared_ptr<arrow::DataType> list_edition = arrow::list(struct_edition);
   field_editions = arrow::field("editions", list_edition);
   // field_editions = arrow::field("editions", struct_edition);
