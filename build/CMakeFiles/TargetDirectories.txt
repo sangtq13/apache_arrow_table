@@ -1,3 +1,0 @@
-/home/vai-sangtq4/Desktop/workspace/arrow_table/build/CMakeFiles/arrow_table.dir
-/home/vai-sangtq4/Desktop/workspace/arrow_table/build/CMakeFiles/edit_cache.dir
-/home/vai-sangtq4/Desktop/workspace/arrow_table/build/CMakeFiles/rebuild_cache.dir
